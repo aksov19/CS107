@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>BBC News - Home</title>
+        <description>BBC News - Home</description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 21 Nov 2020 14:37:21 GMT</lastBuildDate>
+        <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>
+        <language>en-gb</language>
+        <ttl>15</ttl>
+        <item>
+            <title>Trump options narrow as Michigan backs Biden win</title>
+            <description>Republican legislators vow after White House talks to follow "normal process" in validating the vote.</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55025997</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55025997</guid>
+            <pubDate>Sat, 21 Nov 2020 06:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title>Coronavirus vaccines: Will any countries get left out?</title>
+            <description>Experts say the pandemic needs a global solution, but there are concerns over access to vaccines.</description>
+            <link>https://www.bbc.co.uk/news/world-54961045</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54961045</guid>
+            <pubDate>Sat, 21 Nov 2020 01:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title>Donald Trump Jr tests positive for coronavirus</title>
+            <description>The president's son, who is 42, is quarantining after being diagnosed this week, his spokesman says.</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55024888</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55024888</guid>
+            <pubDate>Sat, 21 Nov 2020 01:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>Saudi minister Adel al-Jubeir plays down G20 summit boycott calls</title>
+            <description>Saudi Arabia is facing questions over human rights as it hosts a summit of leading economic powers.</description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-55024977</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-55024977</guid>
+            <pubDate>Sat, 21 Nov 2020 01:21:42 GMT</pubDate>
+        </item>
+        <item>
+            <title>Prince Harry 'aware' of inquiry into BBC Diana interview</title>
+            <description>The prince is getting "regular updates" about the investigation into the 1995 interview, a source says.</description>
+            <link>https://www.bbc.co.uk/news/uk-55028860</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55028860</guid>
+            <pubDate>Sat, 21 Nov 2020 14:16:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>Daniel Cordier, from French Resistance hero to art dealer</title>
+            <description>Daniel Cordier, who died aged 100, was one of France's last remaining "Compagnons de la Libération".</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55028679</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55028679</guid>
+            <pubDate>Sat, 21 Nov 2020 13:30:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Kabul attack: Several killed as rockets hit residential areas</title>
+            <description>More than a dozen rockets were fired, officials say, the latest in a series of attacks in the country.</description>
+            <link>https://www.bbc.co.uk/news/world-asia-55026991</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55026991</guid>
+            <pubDate>Sat, 21 Nov 2020 13:06:30 GMT</pubDate>
+        </item>
+        <item>
+            <title>Covid: Jab for people who cannot be vaccinated trialled</title>
+            <description>An injection of antibodies might provide up to six months' protection to immuno-compromised patients.</description>
+            <link>https://www.bbc.co.uk/news/health-55022288</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55022288</guid>
+            <pubDate>Sat, 21 Nov 2020 01:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title>Brazil killing: Protests erupt after black man killed by white security guards</title>
+            <description>Footage shows Joao Alberto Silveira Freitas being repeatedly punched by two white security guards.</description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-55027001</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-55027001</guid>
+            <pubDate>Sat, 21 Nov 2020 08:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title>Dutch journalist gatecrashes EU defence video conference</title>
+            <description>Daniel Verlaan joined the meeting after the Dutch defence minister posted login details on Twitter.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55027641</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55027641</guid>
+            <pubDate>Sat, 21 Nov 2020 10:21:54 GMT</pubDate>
+        </item>
+        <item>
+            <title>Lebanon inmates break doors and die in car crash after jail-break</title>
+            <description>They are among 69 prisoners who managed to escape from a jail near the capital, Beirut.</description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-55027643</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-55027643</guid>
+            <pubDate>Sat, 21 Nov 2020 12:49:54 GMT</pubDate>
+        </item>
+        <item>
+            <title>Students create device to capture car tyre microplastic debris</title>
+            <description>We hear a lot about single-use plastics like bottles and packaging but tyre wear is a big problem.</description>
+            <link>https://www.bbc.co.uk/news/science-environment-54980602</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-54980602</guid>
+            <pubDate>Sat, 21 Nov 2020 00:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title>Isle of Wight charity worker blinded and paralysed by snakebite</title>
+            <description>Ian Jones was treated in intensive care after being bitten by a cobra in an Indian village.</description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-55013242</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-55013242</guid>
+            <pubDate>Fri, 20 Nov 2020 21:38:09 GMT</pubDate>
+        </item>
+        <item>
+            <title>Wagatha Christie: A uniquely British feud</title>
+            <description>It's a drama involving two footballers' wives and an apparent Instagram sting worthy of the CIA.</description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55023833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55023833</guid>
+            <pubDate>Fri, 20 Nov 2020 21:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>ICYMI: Piano playing in surgery and Covid safety robots</title>
+            <description>A look at some of the stories you may have missed this week.</description>
+            <link>https://www.bbc.co.uk/news/world-55021314</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55021314</guid>
+            <pubDate>Sat, 21 Nov 2020 14:18:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>My trailblazing mother, the world’s first woman prime minister</title>
+            <description>How Sirimavo Bandaranaike of Sri Lanka was elected the world's first female prime minster</description>
+            <link>https://www.bbc.co.uk/news/stories-55002773</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-55002773</guid>
+            <pubDate>Sat, 21 Nov 2020 01:40:45 GMT</pubDate>
+        </item>
+        <item>
+            <title>Week in pictures: 14-20 November 2020</title>
+            <description>A selection of striking images taken around the world this week.</description>
+            <link>https://www.bbc.co.uk/news/in-pictures-55016912</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-55016912</guid>
+            <pubDate>Sat, 21 Nov 2020 01:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title>Irish open-air cellist strikes coronavirus lockdown chord</title>
+            <description>Patrick Dexter films recitals outside his picturesque cottage on Ireland's rural west coast.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55007563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55007563</guid>
+            <pubDate>Sat, 21 Nov 2020 07:11:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>BTS: New album BE 'authentic' but takes 'few risks', say critics</title>
+            <description>The reviews are in for the K-pop band's second 2020 release, which they say is a "letter of hope".</description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55014017</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55014017</guid>
+            <pubDate>Fri, 20 Nov 2020 16:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title>Vladivostok snowstorm: Emergency declared amid chaos and power cuts</title>
+            <description>A state of emergency is declared after a ferocious storm engulfs Vladivostok and surrounding areas.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55015516</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55015516</guid>
+            <pubDate>Fri, 20 Nov 2020 18:32:52 GMT</pubDate>
+        </item>
+        <item>
+            <title>US election: How other incumbents left the White House after losing</title>
+            <description>Donald Trump joins a small group of US presidents who lost the election while in office.</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55008827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55008827</guid>
+            <pubDate>Fri, 20 Nov 2020 00:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title>Parrots found stuffed in plastic bottles in Indonesia</title>
+            <description>Indonesian authorities said crew on a docked ship found 64 birds still alive while 10 had died.</description>
+            <link>https://www.bbc.co.uk/news/world-asia-55016513</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55016513</guid>
+            <pubDate>Fri, 20 Nov 2020 11:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title>Africa's week in pictures: 13 - 19 November 2020</title>
+            <description>A selection of the week's best photos from across the continent.</description>
+            <link>https://www.bbc.co.uk/news/world-africa-55002070</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55002070</guid>
+            <pubDate>Fri, 20 Nov 2020 02:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title>Peter Florjancic: Story of ski-jumping inventor who escaped the Nazis</title>
+            <description>Peter Florjancic, who has died aged 101, was an Olympian, a prolific inventor and friend of the famous.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-54991711</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54991711</guid>
+            <pubDate>Sat, 21 Nov 2020 01:41:42 GMT</pubDate>
+        </item>
+        <item>
+            <title>The local news site behind fake Biden ‘mafia plot’</title>
+            <description>Buffalo Chronicle mixes local news with wildly inaccurate “exclusives” about national politics.</description>
+            <link>https://www.bbc.co.uk/news/blogs-trending-55005815</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-55005815</guid>
+            <pubDate>Sat, 21 Nov 2020 01:37:32 GMT</pubDate>
+        </item>
+        <item>
+            <title>Salvador Cienfuegos: The general’s release that has everyone puzzled</title>
+            <description>US authorities suddenly dropped drug trafficking charges against Mexico's ex-Defence Minister.</description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-55015207</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-55015207</guid>
+            <pubDate>Sat, 21 Nov 2020 01:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title>G20: Saudi Arabia's human rights problems that won't go away</title>
+            <description>Saudi Arabia is hosting the G20 summit, but for many the spotlight is on these three issues.</description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-55002921</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-55002921</guid>
+            <pubDate>Sat, 21 Nov 2020 01:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title>Obituary: Jan Morris, a poet of time, place and self</title>
+            <description>She was an award-winning journalist and author with more than 40 books under her belt.</description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-26924906</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-26924906</guid>
+            <pubDate>Fri, 20 Nov 2020 16:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title>US election 2020: Fact-checking Trump team's main fraud claims</title>
+            <description>We've looked at some of the allegations of malpractice from President Trump and his supporters.</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55016029</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55016029</guid>
+            <pubDate>Fri, 20 Nov 2020 18:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>Attention-loving Trump disappears in final days of term</title>
+            <description>After a hectic campaign schedule, Mr Trump is now holed up in his office watching TV and firing people.</description>
+            <link>https://www.bbc.co.uk/news/world-55008828</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55008828</guid>
+            <pubDate>Fri, 20 Nov 2020 16:26:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Trumplomacy: Mike Pompeo eyes history on Israel swansong trip</title>
+            <description>The visit is as much about putting pressure on Iran as it is about shoring up the Israeli right.</description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-55011835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-55011835</guid>
+            <pubDate>Fri, 20 Nov 2020 02:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title>How England's test-and-trace system went wrong</title>
+            <description>BBC News spoke to key government figures, scientists and health officials involved from the start.</description>
+            <link>https://www.bbc.co.uk/news/health-55008133</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55008133</guid>
+            <pubDate>Fri, 20 Nov 2020 00:53:05 GMT</pubDate>
+        </item>
+        <item>
+            <title>Arteta warns of 'consequences' for source who leaked Ceballos-Luiz story</title>
+            <description>Arsenal boss Mikel Arteta says there will be "consequences" for the source who leaked a story about a training ground clash between Dani Ceballos and David Luiz.</description>
+            <link>https://www.bbc.co.uk/sport/football/55023525</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55023525</guid>
+            <pubDate>Sat, 21 Nov 2020 11:53:33 GMT</pubDate>
+        </item>
+        <item>
+            <title>Chelsea go top after strolling to win against listless Newcastle</title>
+            <description>Chelsea move to the top of the Premier League following victory at Newcastle, their fifth straight win in all competitions.</description>
+            <link>https://www.bbc.co.uk/sport/football/54941197</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54941197</guid>
+            <pubDate>Sat, 21 Nov 2020 14:21:05 GMT</pubDate>
+        </item>
+        <item>
+            <title>Monaco come from 2-0 down to stun PSG</title>
+            <description>Monaco end PSG's Ligue 1 winning streak as they come from two goals down to beat the defending champions 3-2.</description>
+            <link>https://www.bbc.co.uk/sport/football/54995916</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54995916</guid>
+            <pubDate>Fri, 20 Nov 2020 22:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title>The UFC knockout that went viral and inspired Kanye West</title>
+            <description>UFC newcomer Joaquin Buckley on the knockout which went viral and inspired Kanye West's latest track.</description>
+            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/55011217</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/55011217</guid>
+            <pubDate>Sat, 21 Nov 2020 06:33:49 GMT</pubDate>
+        </item>
+        <item>
+            <title>Haaland beats Fati & Davies to award for best U21 in Europe's top leagues</title>
+            <description>Borussia Dortmund forward Erling Braut Haaland wins the 2020 Golden Boy award for the best under-21 player in a European top division.</description>
+            <link>https://www.bbc.co.uk/sport/football/55026825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55026825</guid>
+            <pubDate>Sat, 21 Nov 2020 10:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title>ATP Finals: Novak Djokovic beats Alexander Zverev to make semi-finals</title>
+            <description>Novak Djokovic defeats Alexander Zverev in straight sets to reach the last four of the ATP Finals in London.</description>
+            <link>https://www.bbc.co.uk/sport/tennis/55019467</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/55019467</guid>
+            <pubDate>Fri, 20 Nov 2020 21:36:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

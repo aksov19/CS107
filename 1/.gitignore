@@ -1,0 +1,4 @@
+*.o
+rsg
+Makefile.dependencies
+vgcore.*

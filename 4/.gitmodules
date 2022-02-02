@@ -1,0 +1,3 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/freeuni-paradigms/assn-4-rss-news-search-data.git
